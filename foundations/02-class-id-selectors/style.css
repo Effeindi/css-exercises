@@ -1,0 +1,15 @@
+.red-element {
+    background-color: rgb(235, 145, 145);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+#blue-element {
+    color: rgb(25, 66, 199);
+    font-size: 36px;
+}
+#green-element {
+    background-color: rgb(32, 212, 152);
+    font-weight: bold;
+}
+.medium-font-size {
+    font-size: 24px;
+}
